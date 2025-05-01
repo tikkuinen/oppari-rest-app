@@ -8,7 +8,7 @@ public class RestAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestAppApplication.class, args);
-		System.out.println("kissa sanoo miau ja koira vuh");
+		System.out.println("kissa sanoo miau");
 	}
 
 }
